@@ -1,8 +1,9 @@
 # DevOps_ITMO_course
 
-This is a first lab of DevOps course at ITMO university
+This is a second lab of DevOps course at ITMO university
 
-This code contains DAG for dot product computing
+This code contains DAG for dot product computing using two python operators for generation and one spark worker for multiplication and reduction using accumulators
+spark code at spark and dags at dag folders
 
 You can just simply clone this branch and use docker-compose up -d and specify ports if needed default is 8080
 
